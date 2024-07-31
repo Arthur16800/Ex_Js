@@ -1,4 +1,4 @@
-const nota = 2;
+const nota = 10;
 
 if(nota >= 6){
     console.log('Aprovado!!!')
